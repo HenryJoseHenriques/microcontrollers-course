@@ -1,0 +1,9 @@
+../Core/Src/main.c:104:5:main	8	static
+../Core/Src/main.c:150:6:SystemClock_Config	72	static
+../Core/Src/main.c:190:6:Error_Handler	4	static,ignoring_inline_asm
+../Core/Src/main.c:219:7:default_timer	4	static
+../Core/Src/main.c:224:7:set_timer	16	static
+../Core/Src/main.c:272:7:split_number	4	static
+../Core/Src/main.c:281:7:enable_digit	16	static
+../Core/Src/main.c:290:7:refrash_display	8	static
+../Core/Src/main.c:302:7:start_timer	8	static

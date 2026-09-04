@@ -1,0 +1,3 @@
+../Core/Src/display.c:27:13:enable_digit	16	static
+../Core/Src/display.c:60:6:Display_SetTemperature	24	static
+../Core/Src/display.c:108:6:Display_Refresh	8	static

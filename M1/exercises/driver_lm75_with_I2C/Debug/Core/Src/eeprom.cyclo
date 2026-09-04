@@ -1,0 +1,6 @@
+../Core/Src/eeprom.c:13:6:EEPROM_Init	2
+../Core/Src/eeprom.c:23:19:EEPROM_IsReady	2
+../Core/Src/eeprom.c:33:19:EEPROM_WriteByte	4
+../Core/Src/eeprom.c:50:19:EEPROM_ReadByte	4
+../Core/Src/eeprom.c:61:19:EEPROM_WriteBuffer	8
+../Core/Src/eeprom.c:90:19:EEPROM_ReadBuffer	4

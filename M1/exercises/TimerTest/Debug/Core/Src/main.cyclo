@@ -1,0 +1,9 @@
+../Core/Src/main.c:104:5:main	1
+../Core/Src/main.c:150:6:SystemClock_Config	3
+../Core/Src/main.c:190:6:Error_Handler	1
+../Core/Src/main.c:219:7:default_timer	1
+../Core/Src/main.c:224:7:set_timer	16
+../Core/Src/main.c:272:7:split_number	1
+../Core/Src/main.c:281:7:enable_digit	5
+../Core/Src/main.c:290:7:refrash_display	3
+../Core/Src/main.c:302:7:start_timer	4

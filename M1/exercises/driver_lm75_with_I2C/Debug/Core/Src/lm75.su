@@ -1,0 +1,4 @@
+../Core/Src/lm75.c:10:14:LM75_ConvertTemperature	24	static
+../Core/Src/lm75.c:18:6:LM75_Init	16	static
+../Core/Src/lm75.c:24:19:LM75_ReadTemperature	40	static
+../Core/Src/lm75.c:42:19:LM75_SetShutdown	40	static
